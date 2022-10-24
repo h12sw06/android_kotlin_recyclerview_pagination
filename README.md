@@ -1,4 +1,5 @@
-# kotlin-recyclerview-pagination
-This project demonstrates pagination in recyclerview
+2022/10/24
 
-Reference: https://blog.iamsuleiman.com/android-pagination-recyclerview-tutorial-api-retrofit-gson/
+GitHub Project Update: https://github.com/vengateshm/android_kotlin_recyclerview_pagination
+
+Information about the blog: https://blog.iamsuleiman.com/android-pagination-recyclerview-tutorial-api-retrofit-gson/comment-page-1/
